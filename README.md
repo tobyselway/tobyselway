@@ -23,6 +23,6 @@ Software developer, passionate about software architecture.
  ### 📫 Contacts
  
   * By email: tobyselway@perseus.team
-  * By twitter: @tobyselway
+  * By twitter: @TjasPRG
   * By yelling, like, really loud
  
