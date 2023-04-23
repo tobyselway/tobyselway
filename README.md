@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Toby Selway
-Software developer, passionate about software architecture.
+Full-Stack Web and Embedded Firmware developer, passionate about software architecture and open-source.
+
+Always up for a new challenge, constantly learning and evolving, with a love for teaching and teamwork.
 
 ### Check out some of my Open-Source projects
  * [Wrong Disc](https://github.com/wrong-disc): Music player & discovery platform
@@ -22,7 +24,7 @@ Software developer, passionate about software architecture.
  
  ### 📫 Contacts
  
-  * By email: tobyselway@perseus.team
-  * By twitter: @TjasPRG
+  * By email: tobyselway@outlook.com
+  * By twitter: @tobyselway
   * By yelling, like, really loud
  
