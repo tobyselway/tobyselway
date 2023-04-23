@@ -25,6 +25,6 @@ Always up for a new challenge, constantly learning and evolving, with a love for
  ### 📫 Contacts
  
   * By email: tobyselway@outlook.com
-  * By twitter: @tobyselway
+  * By twitter: @TjasPRG
   * By yelling, like, really loud
  
