@@ -19,8 +19,8 @@ Full-Stack Web and Embedded Firmware developer, passionate about software archit
 Always up for a new challenge, constantly learning and evolving, with a love for teaching and teamwork.
 
 ### 💻 Some fun projects I'm working on
-* [Porridgo](https://github.com/porridgo): A game engine written from scratch in Golang using WGPU
-* [Editor](https://github.com/editor): A simple text editor in Rust
+* [Porridgo](https://github.com/tobyselway/porridgo): A game engine written from scratch in Golang using WGPU
+* [Editor](https://github.com/tobyselway/editor): A simple text editor in Rust
  
 ### 📫 Contacts
  
