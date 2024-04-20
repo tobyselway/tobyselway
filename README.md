@@ -13,18 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Toby Selway
+# 👋 Toby Selway
 Full-Stack Web and Embedded Firmware developer, passionate about software architecture and open-source.
 
 Always up for a new challenge, constantly learning and evolving, with a love for teaching and teamwork.
 
-### Check out some of my Open-Source projects
- * [Wrong Disc](https://github.com/wrong-disc): Music player & discovery platform
- + [Comrade](https://github.com/tobyselway/comrade): A simple social network for small groups and organizations
+### 💻 Some fun projects I'm working on
+* [Porridgo](https://github.com/porridgo): A game engine written from scratch in Golang using WGPU
+* [Editor](https://github.com/editor): A simple text editor in Rust
  
- ### 📫 Contacts
+### 📫 Contacts
  
-  * By email: tobyselway@outlook.com
-  * By twitter: @TjasPRG
-  * By yelling, like, really loud
- 
+* Email: tobyselway@outlook.com
+* Or just send a [pigeon](https://www.rfc-editor.org/rfc/rfc2549)
