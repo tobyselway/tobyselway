@@ -19,6 +19,7 @@ Full-Stack Web and Embedded Firmware developer, passionate about software archit
 Always up for a new challenge, constantly learning and evolving, with a love for teaching and teamwork.
 
 ### 💻 Some fun projects I'm working on
+* [bevy-autoplay](https://github.com/tobyselway/bevy-autoplay): Automated integration testing based on recorded play-testing sessions for bevy game engine
 * [Porridgo](https://github.com/tobyselway/porridgo): A game engine written from scratch in Golang using WGPU
 * [Editor](https://github.com/tobyselway/editor): A simple text editor in Rust
  
